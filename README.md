@@ -31,3 +31,8 @@ Para ejecutar este cuaderno, necesitarás tener instaladas las siguientes biblio
 *   matplotlib
 
 Puedes instalarlas utilizando pip:
+## Cómo ejecutar el cuaderno
+
+1.  Clona este repositorio o descarga el archivo del cuaderno.
+2.  Abre el cuaderno en un entorno de Jupyter Notebook o Google Colab.
+3.  Ejecuta las celdas secuencialmente para realizar el análisis y ver los resultados.
